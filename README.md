@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web-presentation
 
 Project is designed to quickly build presentation as a web page.
@@ -21,3 +22,7 @@ presentation example https://deepidea.github.io/web-presentation/
 
 
 Enjoy
+=======
+# storybook
+A presentation on react Storybook
+>>>>>>> 19fd124ec88f0a25f1f49fcb0595ba2967ae4fc3
