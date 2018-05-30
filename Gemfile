@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'redcarpet'
+# gem 'markdown'
+gem 'highlight'
+gem 'notes'
+# gem 'zoom', '~> 0.5.0'

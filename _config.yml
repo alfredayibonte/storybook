@@ -1,0 +1,4 @@
+# Site settings
+markdown: redcarpet
+base_url: storybook
+title: presentation on storybook
